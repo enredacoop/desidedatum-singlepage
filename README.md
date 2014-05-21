@@ -1,4 +1,4 @@
 desidedatum-singlepage
 ======================
 
-Codebase for Desidedatum HTML5 webpage
+Codebase for Desidedatum HTML5 single webpage
